@@ -17,3 +17,5 @@ if response.status_code == 200:
     print("Temperature:", temperature, "celsius")
 else:
     print("An error occurred.")
+
+#Trying git and relearning
